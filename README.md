@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hasansaikat74@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Rakib%20mahmud/Downloads/Rakib%20Mahmud%20Resume.pdf](file:///C:/Users/Rakib%20mahmud/Downloads/Rakib%20Mahmud%20Resume.pdf)
+- 📄 Know about my experiences <a href="file:///C:/Users/rakib/Downloads/Rakib-Mahmud-Resume%20(1).pdf">My Resume</a>
 
 - ⚡ Fun fact **I am Funny😊**
 
