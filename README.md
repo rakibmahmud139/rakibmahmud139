@@ -1,5 +1,5 @@
 ![logo](https://github.com/rakibmahmud139/rakibmahmud139/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Rakib Mahmud</h1>
+<h1 align="center">Hi 👋, I'm Rakib Mahmud</h1>
 <h3 align="center">A passionate web developer with a knack for crafting dynamic and user-friendly web experiences. I thrive on turning creative ideas into functional, aesthetically pleasing websites and web applications. I love do coding. I am interested in learning new technology. I believe that no one can be successful without hard work and dedication. I want to join a professional life to gain exposure, confidence, and a sense of achievement.</h3>
 
 <img align="right" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" >
