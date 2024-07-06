@@ -1,4 +1,4 @@
-![logo](https://github.com/rakibmahmud139/rakibmahmud139/blob/main/Navy Blue Geometric Technology LinkedIn Banner (1).png)
+![logo](https://github.com/rakibmahmud139/rakibmahmud139/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Rakib Mahmud</h1>
 <h3 align="center">A passionate web developer with a knack for crafting dynamic and user-friendly web experiences. I thrive on turning creative ideas into functional, aesthetically pleasing websites and web applications. I love do coding. I am interested in learning new technology. I believe that no one can be successful without hard work and dedication. I want to join a professional life to gain exposure, confidence, and a sense of achievement.</h3>
 
