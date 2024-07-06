@@ -32,14 +32,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rakibmahmud139&theme=bear&show_icons=true&hide_border=true&count_private=true" alt="rakibmahmud139's Stats" />
 </p></br>
 
-## :chart_with_upwards_trend: Current Stats
+## Current Stats
 
 <br />
 <p align="center">
   <a href="https://git.io/streak-stats"><img width="60%" src="https://streak-stats.demolab.com?user=rakibmahmud139&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" /></a>
 </p>
 
-## :chart_with_upwards_trend: Most Used Languages
+## Most Used Languages
 
 <br>
 <p align="center">
