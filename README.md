@@ -2,16 +2,30 @@
 <h1 align="center">Hi 👋, I'm Rakib Mahmud</h1>
 <h4 align="center">I'm a dedicated junior full stack developer with a robust skill set in HTML, CSS, JavaScript, Node.js, Express, MongoDB, Mongoose, React, Next.js, Prisma, and PostgreSQL. I specialize in creating dynamic and responsive web applications, with a keen eye for detail and a commitment to delivering high-quality code. I am passionate about continuous learning and am always looking to collaborate on innovative projects. Let's connect and create impactful solutions together.</h4>
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" >
+## :computer: Technologies that I know
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibmahmud139&label=Profile%20views&color=0e75b6&style=flat" alt="rakibmahmud139" /> </p>
-
-* 📫 How to reach me **hasansaikat74@gmail.com**
-* 🌍  I'm based in Cumila,Bangladesh
-* 🖥️  See my portfolio at [My Portfolio](http://rakib-mahmud-info.netlify.app/)
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡ Fun fact **I am Funny😊**
+<br>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+</p><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
