@@ -1,6 +1,7 @@
 ![logo](https://github.com/rakibmahmud139/rakibmahmud139/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Rakib Mahmud</h1>
-<h4 align="center">I'm a dedicated junior full stack developer with a robust skill set in HTML, CSS, JavaScript, Node.js, Express, MongoDB, Mongoose, React, Next.js, Prisma, and PostgreSQL. I specialize in creating dynamic and responsive web applications, with a keen eye for detail and a commitment to delivering high-quality code. I am passionate about continuous learning and am always looking to collaborate on innovative projects. Let's connect and create impactful solutions together.</h4>
+<br>
+<h4 align="center">I'm a dedicated junior full stack developer with a robust skill set in HTML, CSS, JavaScript, Node.js, Express, MongoDB, Mongoose, React, Next.js, Prisma, and PostgreSQL. I specialize in creating dynamic and responsive web applications, with a keen eye for detail and a commitment to delivering high-quality code. I am passionate about continuous learning and am always looking to collaborate on innovative projects. Let's connect and create impactful solutions together.</h4></br>
 
 ## :computer: Technologies that I know
 
@@ -24,9 +25,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="64" height="64"/>
 </p><br/>
 
+## :chart_with_upwards_trend: Current Status 
+<br>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibmahmud139&show_icons=true&locale=en" alt="rakibmahmud139" /></p></br>
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
 <p align="center">
   <a href="https://git.io/streak-stats"><img width="60%" src="https://streak-stats.demolab.com?user=rakibmahmud139&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" /></a>
 </p>
+
